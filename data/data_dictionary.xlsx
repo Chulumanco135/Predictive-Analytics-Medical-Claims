@@ -1,9 +1,9 @@
 # Term	Definition
-1. AUC :	A performance metric used to evaluate the ability of a predictive model to distinguish between different classes
+1. AUC : A performance metric used to evaluate the ability of a predictive model to distinguish between different classes
 2. CRISP-DM	Cross Industry Standard Process for Data mining: a framework used to guide data analytics and machine learning projects
-3. Financial Exposure : 	The amount of money at risk in a claim, often reflected by claim value or outstanding balances
+3. Financial Exposure : The amount of money at risk in a claim, often reflected by claim value or outstanding balances
 4. Misclassification Rate :	The proportion of observations is incorrectly classified by a predictive model.
 5. Validation Dataset :	A subset of data used to evaluate model performance on unseen observation
-6. Target Variable :	The outcome variable is that a predictive model attempts to predict.
-7. Predictive Analytics:	The use of statistical and machine learning techniques to predict future outcomes using historical data.
+6. Target Variable : The outcome variable is that a predictive model attempts to predict.
+7. Predictive Analytics: The use of statistical and machine learning techniques to predict future outcomes using historical data.
 
